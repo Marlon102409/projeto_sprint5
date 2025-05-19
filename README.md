@@ -6,6 +6,7 @@ This project is a simple and interactive Streamlit web application that allows u
 
 - Histogram to visualize the distribution of vehicles by odometer readings (mileage).
 - Scatter plot to show the relationship between vehicle price and mileage.
+- both tools were built in the application in this link: https://project-sprint5-0pr2.onrender.com/#graficos-interativos 
 
 ## 🗂️ Dataset
 
